@@ -1,0 +1,10 @@
+String ash ='assets/img/ash.jpg';
+String ela ='assets/img/ela.jpg';
+String fuze ='assets/img/fuze.jpg';
+String jackal ='assets/img/jackal.jpg';
+String kapkan ='assets/img/kapkan.jpg';
+String lesion ='assets/img/lesion.jpg';
+String maestro ='assets/img/maestro.jpg';
+String pulse ='assets/img/pulse.jpg';
+String thermite ='assets/img/thermite.jpg';
+String vigil ='assets/img/vigil.jpg';
